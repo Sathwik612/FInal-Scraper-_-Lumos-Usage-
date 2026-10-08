@@ -1,0 +1,4 @@
+# Optional extras for the JS-rendered fallback tier.
+# Install with: pip install -r requirements-playwright.txt
+#               playwright install chromium
+playwright>=1.40
